@@ -1,0 +1,10 @@
+# Pico SDK build folders (python bp3unbricker.py build)
+build-*/
+
+# the UF2 files and SHA256SUMS.txt that `build` writes: published as GitHub release assets
+dist/
+
+# test and soak logs (python bp3unbricker.py test-bootloader / soak)
+logs/
+
+__pycache__/
