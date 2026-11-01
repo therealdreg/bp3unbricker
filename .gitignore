@@ -1,0 +1,4 @@
+# Pico SDK build folders (cmake -B build-pico, see README.md)
+build-*/
+
+__pycache__/
